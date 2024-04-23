@@ -1,2 +1,2 @@
 # Amazon-Prime_Video
-Amazon Prime Video 
+Amazon Prime Video Dashboard : https://app.powerbi.com/view?r=eyJrIjoiMjFjYzUyNWEtOGYwMS00N2IyLTlkYWEtNmQwMmJkODk1ODcxIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9
